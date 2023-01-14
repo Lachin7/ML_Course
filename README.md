@@ -6,25 +6,25 @@ Linear Algebra and Probability Review
 
 ## HW2
 ### Theoretical
-Clustering and K-means
-Whitening Using PCA
-Linear Regression
-Generalization Error
-Kernels
-Feature Expansion
-SVM Decision Boundaries
-Monte Carlo Cross Validation 
+Clustering and K-means <br>
+Whitening Using PCA<br>
+Linear Regression<br>
+Generalization Error<br>
+Kernels<br>
+Feature Expansion<br>
+SVM Decision Boundaries<br>
+Monte Carlo Cross Validation <br>
 ### Practical:
-Linear Regression
-Decision Tree
-SVM 
+Linear Regression<br>
+Decision Tree<br>
+SVM <br>
 
 
 ## HW3
 ### Theoretical:
-ML models for tabular datasets
-Intro to NNs
+ML models for tabular datasets<br>
+Intro to NNs<br>
 ### Practical: 
-Adaboost
-Neural Network 
-NN with pytorch
+Adaboost<br>
+Neural Network <br>
+NN with pytorch<br>
