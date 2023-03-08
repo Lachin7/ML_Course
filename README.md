@@ -28,3 +28,16 @@ Intro to NNs<br>
 Adaboost<br>
 Neural Network <br>
 NN with pytorch<br>
+
+## HW4
+### Theoretical:
+Modern CNN <br>
+Autoencoder <br>
+Sequence to sequence model comprehension <br>
+RNN calculation <br>
+Word Embeding <br>
+### Practical: 
+CNN <br>
+Autoencoder <br>
+RNN <br>
+
