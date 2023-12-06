@@ -41,3 +41,7 @@ CNN <br>
 Autoencoder <br>
 RNN <br>
 
+## Final Project
+
+predicting breast cancer survival using machine learning models with clinical data and gene expression profiles.
+
